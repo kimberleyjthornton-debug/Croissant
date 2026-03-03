@@ -1,0 +1,32 @@
+.main-container {
+  max-width: 800px;
+  margin: 20px auto;
+  background-color: rgb(153, 194, 244);
+  border-radius: 4px;
+  padding: 40px;
+  box-shadow: 5 5 10px rgba(0, 0, 0, 0.1);
+}
+
+footer {
+  display: block;
+  text-align: center;
+}
+
+footer a {
+  margin: 0 10px;
+}
+
+h1 {
+  text-align: center;
+}
+
+p {
+  text-align: center;
+}
+
+.croissant-image {
+  display: block;
+  margin: 20px auto;
+  max-width: 100%;
+  border-radius: 4px;
+}
